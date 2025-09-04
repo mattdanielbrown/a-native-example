@@ -8,7 +8,7 @@
     "node-gyp-build": "^3.3.0"
   },
   "devDependencies": {
-    "prebuildify": "^2.6.0",
+    "prebuildify": "^6.0.1",
     "standard": "^11.0.1",
     "tape": "^4.9.0"
   },
